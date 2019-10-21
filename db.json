@@ -1,0 +1,52 @@
+{
+    "user":[{
+        "id": 1,
+        "name": "Briar",
+        "email": "mbriar0@paginegialle.it",
+        "phone": "589-577-9442",
+        "password": "123",
+        "avatar": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAGkSURBVDjLrZJPKINhHMd3UsrJTcpBDi6UC+3ookQ5OOBAaCh2cFQ40GqTzURTihI54DRp8dqBg3BQw5BtNmxe/4flT9re5+v3vJvF2l6Kp749Pe/7fj7P7/09jwqA6i9R/ZugVr+cSZmlvFOgEIGSl0xgnVt3IRyRoDSWtn1c4qakxQW0yKBEJMbw+MpwHWIQnxgCDwxnQQbvHYP7RoLnJirvntrkkuKvghytZU1+eUWg+MjgJ/j0nuEkBh9dSTgQo4KB+R0uqEgquCD4PBiDbxlc11HYSfBuILUg/gu8fB/t6rmVcEzw4aWEfYIdAS6IyILe6S0uUCdtIpd8Hbwah1+SxQlNTE91jJHPI5tcPoiLrBsL6BxrQOtQFep0pc/lXYU9P14kkngugy/onxlF30ITlpwWOEQB5tV21JgLUNKRZVSCTeM2J6/kuV5fFrbuD8N6OCJXY7S3wGxv44K3VHAuxUvR8HVldxFszolvvVncs3DB7+67Wpv9Nig0Qy80yrB+pVG5gsTQh7pqYz5Mgkbemc98rdiDJBIDJcTLjs0G/vwDCw/6dFwBuzsAAAAASUVORK5CYII="
+      }, {
+        "id": 2,
+        "name": "Nhan",
+        "email": "hdtnhan91@gmail.com",
+        "phone": "234-852-1655",
+        "password": "12",
+        "avatar": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAJkSURBVDjLpZNbSJNhHIeli4jAKOhun9KNbUpaURFRREkFVjpNRcssXOKYZ9J0ihnN05zSUpflzMOnW5tuammajUkWpCbbrOxwEzZJw7Rt2pxJh/16/YSBILPo4uE98P8974nXA4DH/7Dq5GQn+5NdxcK8lsK8msIczcKYlv35rwST3ZwxRw8Ljh5qmU4i0VCYbfWC+T5nfE2BQ+fFBOdbqeUdEOyEWZrCRBWFNQX2ehZMGh4mHkkwM3AYlgYKVoUXZpTe+CKnoJcd2uJW0Jbi/c32vg+WF82Yel4Hm+kYbMYYzH1Qoy9v28LrxsT1bgU34nYMWYfvYdqgwcJLFUHN9K1GFWp4/ga3R0hX0huDLp8ercnci0XDXXx/08GwMKIEnbsPJxJPjsbfrt28qiBNSW+KrcpRhhSxMeTogrQ0CI3XTjEs9XVTLQgu3I6z5RntqbR86wpBqkKxTmvukMTK9mPgdwN6bRVoeCdEtTEN0gEBxE94uDOSgcezMoSJdyGiRNic3Fi7wSVIrissTmo6jhaziGEpeHNQgLJn8SjSX0B+dxSy20NRMZQEST8fCXIu4iuzql0CUx7n13SXENd7z6G0n8dQ3HeRGed1RSKrjYt0VRD49UeRqQmGpTcfg5m+P1yCV1d9nVadiBQcwS1DKgnGkFWjkfsgHFe0XNJGEEkYJE/5OF95EDZ9AYaz/ZwuwWhTSo4xx+cnvy4Q0dLdpPDSqoRL/BEu3glTfsAiyRSseIWPaoEnrZf6RJUnvI0sC3SeKd1DLiwAoSX+CCkKIBxwhoi4X2selvuNtwg83f7Gf+EP0qq8jpoy//YAAAAASUVORK5CYII="
+      }, {
+        "id": 3,
+        "name": "Sophi",
+        "email": "stansill2@networksolutions.com",
+        "phone": "764-398-7125",
+        "password": "Ksy9yNrC",
+        "avatar": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAEXSURBVDjLY/j//z8DJZhhmBpg2POQn2wDDDof8HvOe3osYtXzDzCxuM2vP3gvfn4MJIfXAP22e0Ies58eK9r2+r//3Kf3YOIhq17eK9v95j9ITrv2jhBWA/Ra7kVEr375vXDrq/9+s57eUy+4IY0kJx2w6Nk9kFzE0uffgXIRKAboNtxlC1/+/GPljjdABc9+q+ZcM0Z3qmb5LWOQXOmml/8DZz7+qJB0hQ3FBerFNyNC5z/9nrXqxX+Pvgf35OMuSSPJSXtPfXQPJBc089F3oFwE1jBQTLkiZNtw51jq4qf/XVvuwsPAa9Kjexkrnv8HyclFXxTCGwsyERf4LctvHvPuvAePBf8pDz/Y1N45BpIbKUmZFAwAR3nW32nUrY0AAAAASUVORK5CYII="
+      }, {
+        "id": 4,
+        "name": "Luciano",
+        "email": "lheyward3@vistaprint.com",
+        "phone": "792-413-9198",
+        "password": "mi9KZYCyT",
+        "avatar": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAKfSURBVDjLfVNNaBNREP52s0m0cc2PUaiWQLGKYtWKCkUPohJJFfTiIQcv2tKDCB56sAfPUjyUFKQHrS2e1NaCthapSFuxlFyMifYHRWkvDZHapj/aZLubXWfeJgV/X5g3u5uZ7/tm5j3Jsiz8byUSiS7DMC7puq6QB3lha2tr7B9J/wJIpVJeSujw+XwX3e4yaJQE04SIphy/34fBwRdQ/pacTCYjnBwMBnd4PB5Mz8yC2U3TgmmZBGShQGCapkGZmprSCoWCi0wElWSyz2azv0vGwkKWgEyEz9SJbwonV1SEsLi4JNgt/lms0hLGL8SJgN+L/r5n2Fd9SLDzf0IBo3LyjY4EhUmQJNrtTXi2leVl3G48KhjfJeJgteXnLtgKWCqzcqA/sAWyLEMik4vGzwxgmTZj9YEj4tkq9kBmBfROADIcDscvJhc9L24eM86p0+hcjImyhAK9OB5JluBQlHV24bkE8vbkbMbOj/fwY8UQKgQAb9wQLoEZK7eVifrtJSG9ZNgHauYN5ryTqJoPIpfPYWi8V0xFAMjFOtm+fPrzXGz2TmAmN4vwyeOoCOzC8MRTxMe7kdcCNoDTqaClvkaMR9cNrK5qQrLL5aQyLLQPP0DNnggKcgEHy8N4NdmD2v3H0P35ORSqq3VkZOhE6aCQD6iqWsnTyWQyGqlzf8t9hVPahLq99UJR0+m76P/QTo3sgxKNRptKUtva2q4TyPmdVbsrVdWH3icPTZr5/ez3+SsT6TEplR5Fc7gLLS8vY4PDTR2SLbmUHIvFthJbLBI5eyoUCkFVPWhoaNyYz+ejhqXfir8fg4uuDjO7JAWjydd0eszW9ctE0hfI3vb0PD5cOv/FezEZv5O+WXttu9I9PXAVGFApfIWsnb43/wTyL6VPiDb06AAAAABJRU5ErkJggg=="
+      }, {
+        "id": 5,
+        "name": "Sonja",
+        "email": "sclear4@si.edu",
+        "phone": "156-757-2056",
+        "password": "IvREBC",
+        "avatar": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAJgSURBVDjLnVNLa1NBFP7m3jQPSVKiTaskGKQKUqlSQZTqqlWrCwUX9bFx6dIf4MpFXQi6cafgQhAVJD7oLou2uFBEBLswCxFqbFRswZjHvbd3Zu6MZyYGiptKBy7f3DnnO+c7Z84wrTU2s6buT0wLKe86/+N8efZ88WL53NF15LNEflwY2pFjGykg8m7OxT7O+TMu5JQQIknkF9vzg26tXm9vqIDIOSKXi/mCQ+QKkV+WCkVLJvNBdq3y0EpQWkFFCpGij1BEEoJHCIWAL+vQqU/oz2TQ8X0sf1+BE45DihRi8eZJHN6TWpdTQypNQbooCYXUWGq9xXztFrRiOL3zDuJsCPfmfiLWo7V8Sdnxl6TALVFZMifUchRj2Zv2fLWRw9a0QtCR3QCnDqRRWWxjcjSNph/hyesGpo/kkIoz6K4oLNZ8LFSBS+MDCCngg4UVqEBQKVLCDxVyaRdUPhJ9DgKq3ZBvz/4AI/71p8so5eMYKaRQ2BbHrsEkAkE98yQcL5R489nDoeEteP6ugWQfw5XjecRchk4YWQUeoQl+bG/WltteM80lmxfB6QQaEyMZzH9s4cT+rFVzo/yNHDQ8cjRjYlDR5sOXDr6uhvZsjewq5HCaAacr03hVbcF1mDV2SJUZMJPZSPC4CQAqqY7f1Oz+lIuZCyXoUINNzlT1mbEc6r9CcKrLNMhkN503e25vonsbws5H93pLAwnMPVpCrNWWtmmZpAtO9ScFg0iQkySUDoTSlmSGi+LYQTMqey+ADV99r9cCkmxrIiM3e0IjnxMS0f6TAtvJfxbb7HPurT/OV55dSDB+9QAAAABJRU5ErkJggg=="
+      }],
+      "sections": [{
+        "id": 1,
+        "title": "Philippines",
+        "content": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem. Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio. Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl. Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum. Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo."
+      }, {
+        "id": 2,
+        "title": "Poland",
+        "content": "Integer a nibh. In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet. Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam."
+      }, {
+        "id": 3,
+        "title": "Peru",
+        "content": "Quisque ut erat. Curabitur gravida nisi at nibh."
+      }]
+
+}

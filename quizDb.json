@@ -1,0 +1,71 @@
+{
+    "git": [{
+      "id": 1,
+      "question": "What's the git command that downloads your repository from GitHub to your computer?",
+      "answers": [{"choose": "git push", "correct":false, "id":1}, 
+        {"choose": "git clone", "correct":true, "id":2}, 
+        {"choose": "git fork", "correct":false, "id":3},
+         {"choose": "git commit", "correct":false, "id":4}]
+    }, {
+      "id": 2,
+      "question": "How do you create a copy of a lab under your own GitHub account so that you can solve the lab?",
+      "answers": [{"choose": "Forking it via the GitHub interface.", "correct":true, "id":1 },
+         {"choose": "git push", "correct":false, "id":2},
+          {"choose": "git pull request", "correct":false, "id":3},
+           {"choose": "git add", "correct":false, "id":4}]
+    }, {
+      "id": 3,
+      "question": "What's the opposite of git clone, instead of downloading your code from GitHub, uploads your changes and code back to GitHub?",
+      "answers": [{"choose": "git push", "correct":true, "id":1 },
+         {"choose": "git clone", "correct":false, "id":2}, 
+         {"choose": "git commit", "correct":false, "id":3}, 
+         {"choose": "git status", "correct":false, "id":4}]
+    }, {
+      "id": 4,
+      "question": "How do you check the state of your local git repository since your last commit?",
+      "answers": [{"choose": "git check", "correct":false, "id":1 },
+         {"choose": "git status", "correct":true, "id":2},
+          {"choose": "git diff", "correct":false, "id":3},
+           {"choose": "git add", "correct":false, "id":4}]
+    }, {
+      "id": 5,
+      "question": "How do you stage files for a commit?",
+      "answers": [{"choose": "git add", "correct":true, "id":1 },
+         {"choose": "git commit", "correct":false, "id":2},
+          {"choose": "git diff", "correct":false, "id":3},
+           {"choose": "git commit -m", "correct":false, "id":4}]
+    }, {
+      "id": 6,
+      "question": "How do you save the current state of your code into the git version control?",
+      "answers": [{"choose": "By committing the staged changes with git commit", "correct":true, "id":1 }, 
+        {"choose": "By adding all changes and staging them with git stage", "correct":false, "id":2},
+         {"choose": "By adding all changes and staging them with git add", "correct":false, "id":3},
+          {"choose": "By creating a new commit with git init", "correct":false, "id":4}]
+    }, {
+      "id": 7,
+      "question": "What's a shortcut to staging all the changes you have?",
+      "answers": [{"choose": "git commit add .", "correct":false, "id":1 }, 
+        {"choose": "git commit .", "correct":false, "id":2},
+         {"choose": "git add .", "correct":true, "id":3}, 
+         {"choose": "git push -am ", "correct":false, "id":4}]
+    }, {
+      "id": 8,
+      "question": "How do you supply a commit message to a commit?",
+      "answers": [{"choose": "git message ", "correct":false, "id":1 },
+         {"choose": "git add 'I'm coding'", "correct":false, "id":2},
+          {"choose": "git commit 'I'm coding'", "correct":false, "id":3}, 
+          {"choose": "git commit -m 'I'm coding'", "correct":true, "id":4}]
+    }, {
+      "id": 9,
+      "question": "What is the correct commit syntax for all changes with a message?",
+      "answers": [{"choose": "git commit -am 'I'm coding'", "correct":true, "id":1 },
+         {"choose": "git add -a 'I'm coding'", "correct":false, "id":2},
+          {"choose": "git commit 'I'm coding'", "correct":false, "id":3},
+           {"choose": "git commit -a 'I'm coding'", "correct":false, "id":4}]
+    }, {
+      "id": 10,
+      "question": "What comes first, staging with git add . or committing with git commit?",
+      "answers": [{"choose": "Staging your commits with git add", "correct":true, "id":1 }, {"choose": "Committing with git commit", "correct":false, "id":2}]
+    }]
+
+}
